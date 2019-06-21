@@ -1,0 +1,16 @@
+.user-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+.user-card-info, .user-card-avatar {
+  width: 50%;
+  min-width: 320px;
+}
+.user-card-info dt {
+  font-weight: bold;
+  display: inline-block;
+}
+.user-card-info dt {
+  display: inline-block;
+  margin: 0;
+}
